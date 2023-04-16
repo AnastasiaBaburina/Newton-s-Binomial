@@ -1,0 +1,15 @@
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\bin\Debug\net6.0\NewtonsBinomial.exe
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\bin\Debug\net6.0\NewtonsBinomial.deps.json
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\bin\Debug\net6.0\NewtonsBinomial.runtimeconfig.json
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\bin\Debug\net6.0\NewtonsBinomial.dll
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\bin\Debug\net6.0\NewtonsBinomial.pdb
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\obj\Debug\net6.0\NewtonsBinomial.csproj.AssemblyReference.cache
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\obj\Debug\net6.0\NewtonsBinomial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\obj\Debug\net6.0\NewtonsBinomial.AssemblyInfoInputs.cache
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\obj\Debug\net6.0\NewtonsBinomial.AssemblyInfo.cs
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\obj\Debug\net6.0\NewtonsBinomial.csproj.CoreCompileInputs.cache
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\obj\Debug\net6.0\NewtonsBinomial.dll
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\obj\Debug\net6.0\refint\NewtonsBinomial.dll
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\obj\Debug\net6.0\NewtonsBinomial.pdb
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\obj\Debug\net6.0\NewtonsBinomial.genruntimeconfig.cache
+C:\Users\baburina\Documents\NewtonsBinomial\NewtonsBinomial\obj\Debug\net6.0\ref\NewtonsBinomial.dll
