@@ -1,4 +1,5 @@
-﻿int[,] NutonsBinomial1 (int power)
+﻿//Заполнение в виде треугольной матрицы
+int[,] NutonsBinomial1 (int power)
 {
     int[,] array = new int [power+1,power+1];
     for (int i = 0; i < power +1; i++)
@@ -18,6 +19,7 @@
     return array;
 }
 
+//Заполнение в виде равнобедренного треугольника
 int[,] NutonsBinomial2 (int power)
 {
     int rows = power + 1;
